@@ -13,10 +13,10 @@ The goal is to clone the structure and layout of the screen but you can find oth
 I attempted to clone the Skype Log in user interface. An example can be found here:
 https://pttrns.com/applications/336#6135
 
-### Here is the Skype you I was reaching for:
+### Here is the Skype you I was reaching for:             VS   My attempt to clone:
 <img src='https://github.com/tyrone8980/Skype_UI_Practice/blob/master/skypeorhiginal.PNG' title='Original Skype UI' width='' alt='Skype' />
-
-
-### Here is my attempt:
 <img src='https://github.com/tyrone8980/Skype_UI_Practice/blob/master/skype_presentation.gif' title='Original Skype UI' width='' alt='Skype' />
+
+
+
 
